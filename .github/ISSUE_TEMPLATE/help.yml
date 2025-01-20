@@ -2,10 +2,6 @@ name: Help
 description: 向我们寻求帮助
 title: "[help]: "
 labels: ["help"]
-assignees:
-  - wuwentao
-  - zhangxiaojingCAN
-  - kexinliang666
 body:
   - type: textarea
     id: help

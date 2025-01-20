@@ -2,10 +2,6 @@ name: Other
 description: 其它问题
 title: "[other]: "
 labels: []
-assignees:
-  - wuwentao
-  - zhangxiaojingCAN
-  - kexinliang666
 body:
   - type: textarea
     id: other
