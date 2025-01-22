@@ -2,10 +2,6 @@ name: Feature request
 description: 向我们建议您想要的Feature
 title: "[Feature]: "
 labels: ["feature"]
-assignees:
-  - wuwentao
-  - zhangxiaojingCAN
-  - kexinliang666
 body:
   - type: textarea
     id: what_feature

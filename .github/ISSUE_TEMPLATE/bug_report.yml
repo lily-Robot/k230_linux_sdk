@@ -2,10 +2,6 @@ name: Bug report
 description: 向我们反馈您发现的Bug
 title: "[Bug]: "
 labels: ["bug"]
-assignees:
-  - wuwentao
-  - zhangxiaojingCAN
-  - kexinliang666
 body:
   - type: textarea
     id: what_happened
@@ -28,8 +24,8 @@ body:
     attributes:
       label: Hardware board
       description: 硬件板卡
-      placeholder: k230 canmv board
-      value: k230 canmv board
+      placeholder: CanMV-K230D-Zero/CanMV K230
+      value: CanMV-K230D-Zero/CanMV K230
     validations:
       required: false
   - type: input
