@@ -80,6 +80,6 @@ output/k230d_canmv_ilp32_defconfig/images/sysimage-sdcard.img.gz
 output/k230d_canmv_lp64_defconfig/images/sysimage-sdcard.img.gz
 ```
 
-After getting the image,please uncompress file , [burn to tf card](https://developer.canaan-creative.com/k230/zh/main/CanMV_K230_%E6%95%99%E7%A8%8B.html#id11),insert tf to device, and poweron device to start using it.
+After getting the image,please uncompress file, [burn to tf card](https://developer.canaan-creative.com/k230/zh/main/CanMV_K230_%E6%95%99%E7%A8%8B.html#id11),insert tf to device, and poweron device to start using it.
 
 For more SDK usage instructions, please refer to the upstream [kendryte k230_linux_sdk](https://github.com/kendryte/k230_linux_sdk) repository instructions.
